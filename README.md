@@ -1,5 +1,5 @@
 # 2digit7segment
-This video is about 2 Digit 7 Segment with Arduino
+This video is about 2 Digit 7 Segment with Arduino<br>
 Sparkfun/SevSeg Library : https://github.com/sparkfun/SevSeg
 
 Part list
